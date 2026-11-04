@@ -4,7 +4,7 @@
 
 **Neural Storm 2026**  
 
-**Problem Statement** GP-02: AI-Based Precision Irrigation Advisory
+**Problem Statement:** GP-02 (AI-Based Precision Irrigation Advisory)
 
 **Team:** Error 007 · **Member:** Arihant Jain
 
