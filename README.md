@@ -1,7 +1,12 @@
+<div align="center">
+    
 # 💧 JalSakhi — Give every drop a better destination
 
-**Neural Storm 2026 · Green Planet · Problem Statement GP-02: AI-Based Precision Irrigation Advisory**  
-**Team: Error 007 · Member: Arihant Jain**
+**Neural Storm 2026**  
+
+**Problem Statement GP-02: AI-Based Precision Irrigation Advisory**  
+
+**Team:** Error 007 · **Member:** Arihant Jain
 
 An explainable irrigation planning tool that helps farmers compare crop, growth stage, soil, field size, soil moisture, evapotranspiration, and expected rain. JalSakhi estimates whether irrigation is needed, how much water to apply, and why, then shows a seven-day water-balance outlook.
 
