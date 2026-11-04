@@ -1,13 +1,12 @@
 <div align="center">
 
-# 💧 JalSakhi
-
-### Give every drop a better destination.
+# 💧 JalSakhi - Give every drop a better destination.
 
 **An explainable irrigation planner for crop, soil, moisture, and rain.**
 
-Built for **Neural Storm 2026 · Green Planet · GP-02: AI-Based Precision Irrigation Advisory**  
-**Team Error 007** · Arihant Jain
+**Neural Storm 2026 · Green Planet · GP-02: AI-Based Precision Irrigation Advisory**  
+
+**Team:** Error 007 · **Member:** Arihant Jain
 
 [🌐 Open the live app](https://jalsakhi-waterwise.streamlit.app/) &nbsp;·&nbsp; [🎥 Watch the narrated demo](demo.mp4) &nbsp;·&nbsp; [📦 Explore the code](https://github.com/Arihant2007/JalSakhi)
 
