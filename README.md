@@ -73,4 +73,4 @@ MIT. See [LICENSE](LICENSE).
 
 ![JalSakhi dashboard preview](screenshot.png)
 
-[Watch the 15-second walkthrough](demo.mp4).
+[Watch the 2:47 narrated walkthrough](demo.mp4). It shows tomato, rice, wheat, and cotton scenarios, including how a rain forecast can change the recommendation. The interface movement is an animated walkthrough, not a screen recording. Narration was generated with Windows speech synthesis.
